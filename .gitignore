@@ -1,0 +1,12 @@
+# Ignore raw and processed data
+data/raw/
+data/processed/
+*.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
